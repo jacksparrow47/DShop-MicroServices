@@ -1,0 +1,33 @@
+[submodule "scripts/DNC-DShop.Services.Orders"]
+	path = scripts/DNC-DShop.Services.Orders
+	url = ../../devmentors/DNC-DShop.Services.Orders.git
+[submodule "scripts/DNC-DShop.Services.Operations"]
+	path = scripts/DNC-DShop.Services.Operations
+	url = ../../devmentors/DNC-DShop.Services.Operations.git
+[submodule "scripts/DNC-DShop.Services.Notifications"]
+	path = scripts/DNC-DShop.Services.Notifications
+	url = ../../devmentors/DNC-DShop.Services.Notifications.git
+[submodule "scripts/DNC-DShop.Services.Identity"]
+	path = scripts/DNC-DShop.Services.Identity
+	url = ../../devmentors/DNC-DShop.Services.Identity.git
+[submodule "scripts/DNC-DShop.Services.Signalr"]
+	path = scripts/DNC-DShop.Services.Signalr
+	url = ../../devmentors/DNC-DShop.Services.Signalr.git
+[submodule "scripts/DNC-DShop.Services.Products"]
+	path = scripts/DNC-DShop.Services.Products
+	url = ../../devmentors/DNC-DShop.Services.Products.git
+[submodule "scripts/DNC-DShop.Services.Customers"]
+	path = scripts/DNC-DShop.Services.Customers
+	url = ../../devmentors/DNC-DShop.Services.Customers.git
+[submodule "scripts/DNC-DShop.Common"]
+	path = scripts/DNC-DShop.Common
+	url = ../../devmentors/DNC-DShop.Common.git
+[submodule "scripts/DNC-DShop.Api.Next"]
+	path = scripts/DNC-DShop.Api.Next
+	url = ../../devmentors/DNC-DShop.Api.Next.git
+[submodule "scripts/DNC-DShop.Api"]
+	path = scripts/DNC-DShop.Api
+	url = ../../devmentors/DNC-DShop.Api.git
+[submodule "scripts/DNC-DShop"]
+	path = scripts/DNC-DShop
+	url = ../../devmentors/DNC-DShop.git
